@@ -1,0 +1,6 @@
+placeholder: https://via.placeholder.com/150
+logo pic: https://febryann.my.id/public/images/skills/logo_tailwind.png
+
+img 1: https://picsum.photos/200/300
+img 2: https://picsum.photos/200/301
+img 3: https://picsum.photos/200/302
